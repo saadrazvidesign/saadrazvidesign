@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Saad, a diploma student in the field of information technology
+
 <!--
 **saadrazvidesign/saadrazvidesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
